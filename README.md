@@ -7,6 +7,8 @@ This project is a Request Header Parser Microservice created as part of the free
 
 Explore the live app: [Request-Header-Parser-Microservice](https://project-headerparser.bfskinner1995.repl.co/)
 
+By Rudi Bakaal
+
 **Example Output:**
 ```json
 {
