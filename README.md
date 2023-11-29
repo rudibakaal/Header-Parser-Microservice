@@ -5,6 +5,8 @@ This project is a Request Header Parser Microservice created as part of the free
 **Usage:**
 - Example Endpoint: [base url]/api/whoami
 
+Explore the live app: [Request-Header-Parser-Microservice](https://project-requestheaderparser.bfskinner1995.repl.co/)
+
 **Example Output:**
 ```json
 {
@@ -13,4 +15,3 @@ This project is a Request Header Parser Microservice created as part of the free
   "software": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0"
 }
 
-Explore the live app: [Request-Header-Parser-Microservice](https://project-requestheaderparser.bfskinner1995.repl.co/)
