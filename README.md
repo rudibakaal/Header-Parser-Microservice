@@ -3,11 +3,13 @@
 This project is a Request Header Parser Microservice created as part of the freeCodeCamp Back End Development and API certification. The microservice analyzes incoming requests and provides information about the user's IP address, preferred language, and software.
 
 **Usage:**
-- Example Endpoint: [base url]/api/whoami
+- Example Endpoint: /api/whoami
 
-Explore the live app: [Request-Header-Parser-Microservice](https://project-headerparser.bfskinner1995.repl.co/)
+Explore the live app: [Request-Header-Parser-Microservice](https://request-header-parser-microservice-api.glitch.me/)
 
 By Rudi Bakaal
+
+- Endpoint: /api/whoami
 
 **Example Output:**
 ```json
